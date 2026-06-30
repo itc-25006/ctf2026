@@ -10,7 +10,7 @@ vsftpdをxinetd経由で動作させるFTPサーバを構築する。
 
 ```bash
 sudo apt update
-sudo apt install vsftpd xinetd
+sudo apt install vsftpd xinetd 
 ```
 
 ---
