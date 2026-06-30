@@ -10,7 +10,7 @@ Telnetサーバをxinetd経由で構築する。
 
 ```bash
 sudo apt update
-sudo apt install xinetd telnetd
+sudo apt install xinetd telnetd 
 ```
 
 ---
