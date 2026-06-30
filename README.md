@@ -2,8 +2,7 @@
 
 ## 1. cpawCTF
 
-<img src="~/ctf2026/images/cpaw2.png">
-
+![cpaw](images/cpaw2.png)
 ---
 
 ## 2.Web / FTP / Telnet サーバー構築
