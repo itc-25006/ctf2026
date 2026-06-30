@@ -2,7 +2,7 @@
 
 ## 1. cpawCTF
 
-<img src="images/cpaw2.png">
+<img src="~/ctf2026/images/cpaw2.png">
 
 ---
 
